@@ -1,9 +1,12 @@
-const contractAddress = "0x6100C25D13c5A805400f6C4A6FD6e6B42E0E2344"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xC30569f165691012c619f2600Fc2184CB1941154"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = ">Welcome to the Land of Holy Shits!";
+const welcome_h1 = "Welcome to the Land of Holy Shits!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'You think NFTs are shit? True! So take part in the Holy Shitstorm and mint your own Holy Shit to express your opinion!';
+const wc_p1 = 'You think NFTs are shit? True! So take part in the Holy Shitstorm and mint your own Holy Shit to express your opinion!'
+const wc_p2 = '7777 variants are waiting to be Minted for 2 Matics. 11 of them are unique Legendary Shits'
+const wc_p3 = '..you always wanted call Albert Shitstone, Ziggy Shitdust or Marylin Shitroe your own ? Take your chance here !' 
+const welcome_p = wc_p1 + wc_p2  +wc_p3;
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
