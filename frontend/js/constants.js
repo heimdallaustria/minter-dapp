@@ -3,9 +3,9 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Land of Holy Shits!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const wc_p1 = 'You think NFTs are shit? True! So take part in the Holy Shitstorm and mint your own Holy Shit to express your opinion!'
-const wc_p2 = '7777 variants are waiting to be Minted for 2 Matics. 11 of them are unique Legendary Shits'
-const wc_p3 = '..you always wanted call Albert Shitstone, Ziggy Shitdust or Marylin Shitroe your own ? Take your chance here !' 
+const wc_p1 = 'You think NFTs are shit? True! So take part in the Holy Shitstorm and mint your own Holy Shit to express your opinion! '
+const wc_p2 = '7777 variants are waiting to be minted for only 2 Matics. And after all, 11 of them are unique Legendary Shit and'
+const wc_p3 = '....you always wanted call Albert Shitstone, Ziggy Shitdust or Marylin Shitroe your own, right ? Take your chance here !' 
 const welcome_p = wc_p1 + wc_p2  +wc_p3;
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
